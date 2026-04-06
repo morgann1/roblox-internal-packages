@@ -1,0 +1,9 @@
+[package]
+name = "morgann1/motion"
+version = "1.0.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+React = "jsdotlua/react@17.2.1"
+ReactOtter = "jsdotlua/react-otter@1.2.1"
