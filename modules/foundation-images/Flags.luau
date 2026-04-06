@@ -1,4 +1,4 @@
-local Packages = script:FindFirstAncestor("FoundationImages").Parent
+local Packages = script:FindFirstAncestor("foundation-images").Parent
 local SafeFlags = require(Packages.SafeFlags)
 
 return {
