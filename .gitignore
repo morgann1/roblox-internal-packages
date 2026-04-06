@@ -1,0 +1,14 @@
+# Wally
+Packages/
+DevPackages/
+wally.lock
+
+# Rojo
+sourcemap.json
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+
+# Rokit
+~/.rokit/

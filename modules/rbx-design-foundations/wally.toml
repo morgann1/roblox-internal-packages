@@ -1,0 +1,8 @@
+[package]
+name = "morgann1/rbx-design-foundations"
+version = "1.0.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+description = "Wally port of Roblox's internal RbxDesignFoundations (v2.0.163) design tokens"
+
+[dependencies]

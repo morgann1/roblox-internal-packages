@@ -1,0 +1,9 @@
+[package]
+name = "morgann1/lumberyak"
+version = "1.0.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+description = "Wally port of Roblox's internal 'Lumberyak' package"
+
+[dependencies]
+Cryo = "morgann1/cryo@1.0.3"

@@ -1,0 +1,2 @@
+rojo sourcemap -o sourcemap.json default.project.json
+rojo build -o place.rbxl

@@ -1,0 +1,8 @@
+[package]
+name = "morgann1/builder-icons"
+version = "1.0.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+description = "Wally port of Roblox's internal package 'BuilderIcons' - Icons for Roblox powered by fonts"
+
+[dependencies]
