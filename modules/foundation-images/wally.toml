@@ -1,6 +1,6 @@
 [package]
 name = "morgann1/foundation-images"
-version = "1.0.0"
+version = "1.0.1"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 description = "Wally port of Roblox's internal package 'FoundationImages' - Source for all images used in Foundation."
