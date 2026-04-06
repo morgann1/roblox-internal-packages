@@ -1,0 +1,9 @@
+[package]
+name = "morgann1/dash"
+version = "1.0.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+description = "A collection of core utilities expanding the capabilities of Lua in Roblox."
+
+[dependencies]
+Cryo = "morgann1/cryo@1.0.3"
