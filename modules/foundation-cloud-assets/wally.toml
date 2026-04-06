@@ -1,0 +1,8 @@
+[package]
+name = "morgann1/foundation-cloud-assets"
+version = "1.0.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+description = "Source for all cloud assets used in Foundation."
+
+[dependencies]
